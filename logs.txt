@@ -1,0 +1,36 @@
+commit 996dbbb5c34041b4dbe75f769b1aecb3c626f845
+Author: ferdzo <ferdzo@users.noreply.github.com>
+Date:   Sun Apr 9 20:30:12 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 92a97a4faf9f19a3c758f3c59edf2bcf875d41a2
+Merge: 911478c 086daaf
+Author: ferdzo <ferdzo@users.noreply.github.com>
+Date:   Sun Apr 9 20:36:17 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 086daaf65fff2a6ab991f170b12a1f77bd681fa0
+Author: ferdzo <ferdzo@users.noreply.github.com>
+Date:   Sun Apr 9 20:29:10 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 911478ce6cd50a86149df1f89bd7e6eb8fd2ed49
+Author: ferdzo <ferdzo@users.noreply.github.com>
+Date:   Sun Apr 9 20:19:30 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 15d481b3e520dba7de0498355d7f69004f9c90b7
+Author: ferdzo <ferdzo@users.noreply.github.com>
+Date:   Sun Apr 9 19:55:20 2023 +0200
+
+    Add java class
+
+commit 444eb42d31c14ecfa17803f5186eda01f568c1f3
+Author: ferdzo <ferdzo@users.noreply.github.com>
+Date:   Sun Apr 9 19:37:39 2023 +0200
+
+    Initial commit
